@@ -1,0 +1,99 @@
+/**div.menu1{
+ 
+    background-color: darkgrey;
+}**/
+div.alert{
+
+    margin-top: -15px;
+    margin-bottom: -30px;
+}
+
+div.menu2 li.lista{
+    background-color: white;
+}
+    
+ul{
+    margin-left: 70px;
+}
+li{
+    display: inline;
+}
+a{
+    margin-right: 10px;
+    color: white;
+    text-align: center;
+}
+nav{
+    /**border: 2px solid red;**/
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+/**
+nav ul{
+    border: 2px solid blue;
+}
+ **/
+
+
+a.nav-link1 img{
+
+    margin-top: 2px;
+
+}
+a.nav-link{
+    margin-right: 0px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+button{
+    margin-right: 20px;
+}
+section{
+    margin-top: 50px;
+
+}
+
+h1{
+    color: rgb(0, 140, 255);
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    font-family: Bahnschrift;
+}
+
+/**div.seccion{
+    margin-top: 50px;
+}
+article{
+    display: inline;
+}*/
+div.d-flex{
+    
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+}
+div.p-2{
+    border: 2px solid red;
+    border-radius: 20PX;
+    margin-right: 35px;
+    
+}
+article{
+    margin-bottom: 100px;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: Bodoni;
+}
+p.evalu{
+    font-size: 40px;
+}
+
